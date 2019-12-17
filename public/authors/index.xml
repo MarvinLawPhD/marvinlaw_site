@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Marvin Law</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Marvin is a curious, driven and analytical researcher with a passion for data. He believes that it is the key to discovering patterns in behaviour and to ultimately predict and improve life outcomes. Prior to being a PhD candidate, he has worked in both academia and industry, presenting at several national
+conferences, publishing empirically validated papers in high impact journals as well as leading and delivering several research projects in market research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eugene Aidman</title>
+      <link>/authors/eugene-aidman/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/eugene-aidman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mattis Geiger</title>
+      <link>/authors/mattis-geiger/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/mattis-geiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabina Kleitman</title>
+      <link>/authors/sabina-kleitman/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sabina-kleitman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sally Olderbak</title>
+      <link>/authors/sally-olderbak/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sally-olderbak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon A. Jackson</title>
+      <link>/authors/simon-a.-jackson/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/simon-a.-jackson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
