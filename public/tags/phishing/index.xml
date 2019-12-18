@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phishing | Marvin Law</title>
+    <link>/tags/phishing/</link>
+      <atom:link href="/tags/phishing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phishing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Phishing</title>
+      <link>/tags/phishing/</link>
+    </image>
+    
+    <item>
+      <title>It&#39;s the deceiver and the receiver - Individual differences in phishing susceptibility and false positives with item profiling</title>
+      <link>/publication/phishing/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/phishing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

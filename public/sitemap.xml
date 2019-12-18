@@ -73,12 +73,17 @@
   </url>
   
   <url>
-    <loc>/publication/publication2/</loc>
+    <loc>/publication/phishing/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/judy-kay/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/phishing/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +99,6 @@
   
   <url>
     <loc>/authors/sabina-kleitman/</loc>
-    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +123,7 @@
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
+    <loc>/publication/liedetection/</loc>
     <lastmod>2018-05-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,6 +143,11 @@
   </url>
   
   <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2018-02-27T00:00:00+00:00</lastmod>
   </url>
@@ -158,7 +163,7 @@
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>/project/westpacscholarprof/</loc>
     <lastmod>2018-02-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,7 +173,7 @@
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>/project/northshoretimes/</loc>
     <lastmod>2018-02-19T00:00:00+00:00</lastmod>
   </url>
   
