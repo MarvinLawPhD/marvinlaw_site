@@ -11,7 +11,7 @@ date: "2018-05-03T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Anna Vander Stel - Unsplashed**](https://unsplash.com/photos/zimQNLdnKp0)'
   focal_point: ""
   preview_only: false
 projects: []
@@ -20,14 +20,14 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-05-03T00:00:00Z"
-slides: example
-summary: Paper examining individual 
+slides: 
+summary: ""
 tags:
 - Source Themes
 title: It's the deceiver, not the receiver- No individual differences when detecting deception in a foreign and a native language
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0196384&type=printable
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -39,8 +39,6 @@ url_video: ""
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

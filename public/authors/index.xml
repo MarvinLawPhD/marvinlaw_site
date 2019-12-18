@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,11 +15,27 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Marvin is a curious, driven and analytical researcher with a passion for data. He believes that it is the key to discovering patterns in behaviour and to ultimately predict and improve life outcomes. Prior to being a PhD candidate, he has worked in both academia and industry, presenting at several national
 conferences, publishing empirically validated papers in high impact journals as well as leading and delivering several research projects in market research.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Judy Kay</title>
+      <link>/authors/judy-kay/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/judy-kay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabina Kleitman</title>
+      <link>/authors/sabina-kleitman/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sabina-kleitman/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -39,14 +55,6 @@ conferences, publishing empirically validated papers in high impact journals as 
     </item>
     
     <item>
-      <title>Sabina Kleitman</title>
-      <link>/authors/sabina-kleitman/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/sabina-kleitman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sally Olderbak</title>
       <link>/authors/sally-olderbak/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
@@ -59,14 +67,6 @@ conferences, publishing empirically validated papers in high impact journals as 
       <link>/authors/simon-a.-jackson/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       <guid>/authors/simon-a.-jackson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     
