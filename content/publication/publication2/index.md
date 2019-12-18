@@ -16,7 +16,7 @@ publication: '*PLoS ONE 13*(10)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-05-03T00:00:00Z"
+publishDate: "2018-10-26T00:00:00Z"
 slides: 
 summary: ""
 tags:
@@ -24,7 +24,7 @@ tags:
 title: It's the deceiver and the receiver - Individual differences in phishing susceptibility and false positives with item profiling
 url_code: ""
 url_dataset: ""
-url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0196384&type=printable
+url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0205089&type=printable
 url_poster: ""
 url_project: ""
 url_slides: ""

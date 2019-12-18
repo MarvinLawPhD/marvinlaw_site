@@ -29,10 +29,18 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>Scholarship</title>
+      <link>/tags/scholarship/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <guid>/tags/scholarship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Westpac</title>
+      <link>/tags/westpac/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/westpac/</guid>
       <description></description>
     </item>
     
