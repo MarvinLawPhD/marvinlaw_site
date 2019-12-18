@@ -5,7 +5,7 @@
     <link>/tags/scholarship/</link>
       <atom:link href="/tags/scholarship/index.xml" rel="self" type="application/rss+xml" />
     <description>Scholarship</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Scholarship</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Westpac Scholarship Profile</title>
       <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The University of Sydney - Introducing our new Westpac Scholars</title>
+      <link>/project/usyd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/usyd/</guid>
       <description></description>
     </item>
     
