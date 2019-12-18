@@ -34,6 +34,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MarvinLawPhD
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Marvin_Law/
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/marvelawss/
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/marvin-law
 superuser: true
 user_groups:
 - Researchers

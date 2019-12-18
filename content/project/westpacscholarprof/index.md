@@ -8,5 +8,5 @@ summary:
 tags:
 - Westpac
 - Scholarship
-title: Westpac Scholarship Profile
+title: Westpac Scholars Trust - Westpac Future Leaders Scholar Profile
 ---
