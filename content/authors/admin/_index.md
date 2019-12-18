@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Tidyverse User, Climber, Teacher and Big Fan of Statistics
+bio: Tidyverse User, Boulderer, Teacher and Big Fan of Statistics
 education:
   courses:
   - course: PhD in Psychology
